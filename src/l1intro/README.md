@@ -4,6 +4,7 @@
 [Въведение и подготовка за класа](https://docs.google.com/presentation/d/1QPvrKR3p7uFKQXmBtre9A2wkvuNvV8J9RP7oRTAnFsc/edit?usp=sharing)
 
 ## Видео
+[Intro 1 13.07.2020](https://youtu.be/xi8PJHHTxWA)
 
 ## Упражнения
 
