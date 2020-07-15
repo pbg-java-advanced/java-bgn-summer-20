@@ -4,7 +4,7 @@
 [Типове данни и променливи](https://docs.google.com/presentation/d/1sHa3g6Or_UHYSlhBxg986pWfGbtlv23viwd_EtTdW3A/edit?usp=sharing)
 
 ## Видео
-
+* [Типове данни 1 15.07.2020](https://youtu.be/uQmoKrsGwcI)
 ## Упражнения
 
 ### Упр. 1

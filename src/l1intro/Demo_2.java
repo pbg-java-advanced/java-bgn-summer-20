@@ -10,8 +10,8 @@ public class Demo_2 {
 //        System.out.println("\ta\tb\tc");
 //        System.out.println("\\\\");
 //        System.out.println("'");
-//        System.out.println("\"\"\"");
-//        System.out.println("C:\nin\the downward spiral");
+//        System.out.println("\"\t\"\t\"");
+        System.out.println("C:\nin\the downward spiral");
 
     }
 

@@ -5,14 +5,23 @@ package l1intro;
  */
 public class Demo_3 {
     public static void main(String[] args) {
-        System.out.println("+------+");
-        System.out.println("|      |");
-        System.out.println("|      |");
-        System.out.println("+------+");
+        drawRectangle();
         System.out.println();
-        System.out.println("+------+");
+        drawRectangle();
+    }
+
+    private static void drawRectangle() {
+        drawLine();
+        drawMiddle();
+        drawLine();
+    }
+
+    private static void drawMiddle() {
         System.out.println("|      |");
         System.out.println("|      |");
+    }
+
+    private static void drawLine() {
         System.out.println("+------+");
     }
 }
