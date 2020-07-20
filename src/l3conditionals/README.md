@@ -4,7 +4,7 @@
 [Булеви изрази и условен оператор.](https://docs.google.com/presentation/d/1iNaNd5_vMVou-vEn3_s4YnuEcHGHn7YN7CjwZRrVzug/edit?usp=sharing)
 
 ## Видео
-
+* [Условни оператори 1 20.07.2020](https://youtu.be/u4hhQFLa7XU)
 
 ### Упр. 1
 Да се запише  булев  израз,  който да има стойност истина,  ако  посоченото условие е вярно и стойност лъжа, в противен случай:

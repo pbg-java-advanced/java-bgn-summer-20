@@ -5,6 +5,8 @@
 
 ## Видео
 * [Типове данни 1 15.07.2020](https://youtu.be/uQmoKrsGwcI)
+* [Типове данни 2 20.07.2020](https://youtu.be/NqgqvwFmbIU)
+
 ## Упражнения
 
 ### Упр. 1

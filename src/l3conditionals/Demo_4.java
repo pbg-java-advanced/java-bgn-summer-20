@@ -15,12 +15,19 @@ public class Demo_4 {
         int second = input.nextInt();
         if (first == second) {
             System.out.println("These two numbers are equal.");
-        } else {
-            if (first > second) {
-                System.out.println("The first number is greater.");
-            } else {
-                System.out.println("The second number is greater.");
-            }
         }
+        else if(first > second) {
+                System.out.println("The first number is greater.");
+        }
+        else {
+                System.out.println("The second number is greater.");
+        }
+//        } else {
+//            if (first > second) {
+//                System.out.println("The first number is greater.");
+//            } else {
+//                System.out.println("The second number is greater.");
+//            }
+//        }
     }
 }
