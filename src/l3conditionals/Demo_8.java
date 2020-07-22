@@ -16,7 +16,7 @@ public class Demo_8 {
             case 3:
             case 4:
             case 5:
-                System.out.println("Weekday");
+                System.out.println("Work day");
                 break;
             case 6:
             case 7:

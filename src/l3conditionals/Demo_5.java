@@ -2,7 +2,7 @@ package l3conditionals;
 
 public class Demo_5 {
     public static void main(String[] args) {
-        int number = 5;
+        int number = 14;
         switch (number) {
             case 1:
             case 4:
