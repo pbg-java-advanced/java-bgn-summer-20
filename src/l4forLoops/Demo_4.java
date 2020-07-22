@@ -6,7 +6,7 @@ package l4forLoops;
  */
 public class Demo_4 {
 
-    public static final int SIZE = 2;
+    public static final int SIZE = 5;
 
     public static void main(String[] args) {
         printLine();

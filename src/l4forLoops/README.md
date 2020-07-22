@@ -4,6 +4,8 @@
 * [For Цикъл](https://docs.google.com/presentation/d/1Jz_bT8AAvaGfOEUd-gFygAOrJscCjDeb_JgHiYSeg2U/edit?usp=sharing)
 
 ## Видео
+* [For Цикъл 1 22.07.2020](https://youtu.be/K1lk07f8h1g)
+* [For Цикъл 2 22.07.2020](https://youtu.be/VwRcs7l1Jho)
 
 ## Упражнения
 
