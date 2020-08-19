@@ -5,7 +5,7 @@
 * [Методи](https://docs.google.com/presentation/d/1Kq_p5I5QPulYe1NF6VgXq57QZwnnqrU5xqMcFwl_Sf0/edit#slide=id.p)
 
 ## Видео
-* [Задачи с цикли](https://drive.google.com/file/d/1lONtl0zG_N4-OuVfS2184K8kVnjIbVnM/view?usp=sharing)
+* [Методи](https://drive.google.com/file/d/1lONtl0zG_N4-OuVfS2184K8kVnjIbVnM/view?usp=sharing)
 
 ## Упражнения
 
