@@ -9,3 +9,4 @@
 * [5. While цикъл](src/l5whileLoops/README.md)
 * [6. Задачи с цикли](src/l6loopProblems/README.md)
 * [7. Методи](src/l7methods/README.md)
+* [8. Бройни системи](src/l8numSys/README.md)
