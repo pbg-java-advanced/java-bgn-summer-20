@@ -6,6 +6,7 @@
 
 ## Видео
 * [Методи](https://drive.google.com/file/d/1lONtl0zG_N4-OuVfS2184K8kVnjIbVnM/view?usp=sharing)
+* [Методи - Упражнение](https://drive.google.com/file/d/1hGSuXaf8EDc_DtXm5OoAoijZgf0Kjy92/view?usp=sharing)
 
 ## Упражнения
 
