@@ -1,9 +1,10 @@
 # 8. Бройни системи
 
 ## Презентации
-
+* [Бройни системи](https://drive.google.com/file/d/13pWEll-djBG2lVCwx0lr9ujB2-iEtg7O/view?usp=sharing)
 
 ## Видео
+* [Бройни системи](https://drive.google.com/file/d/1T6AVnxSZmOuSjpfybdeo2PU6YuWRXfyE/view?usp=sharing)
 
 ## Упражнения
 
