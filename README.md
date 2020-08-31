@@ -10,3 +10,4 @@
 * [6. Задачи с цикли](src/l6loopProblems/README.md)
 * [7. Методи](src/l7methods/README.md)
 * [8. Бройни системи](src/l8numSys/README.md)
+* [9. Масиви от данни](src/l9arrays/README.md)
