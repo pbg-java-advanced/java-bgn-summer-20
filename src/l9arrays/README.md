@@ -4,6 +4,7 @@
 [Масиви от данни](https://docs.google.com/presentation/d/12qVn3-j-jkhg2LxahA9mZbjkzQAdGVjJY6qmFHmyucc/edit?usp=sharing)
 
 ## Видео
+* [Arrays 1](https://drive.google.com/file/d/1MPBZwWlejF5lb_1L21aIxzIyDRkUCXGz/view?usp=sharing)
 
 ## Упражнения
 
