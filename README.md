@@ -11,3 +11,4 @@
 * [7. Методи](src/l7methods/README.md)
 * [8. Бройни системи](src/l8numSys/README.md)
 * [9. Масиви от данни](src/l9arrays/README.md)
+* [10. Алгоритми](src/l10algorithms/README.md)
