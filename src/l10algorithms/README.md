@@ -4,7 +4,7 @@
 * [Алгоритми](https://drive.google.com/file/d/1EvLqMbobKya-GC99_VxwqyZpt6RmZALj/view?usp=sharing)
 
 ## Видео
-
+* [Алгоритми](https://drive.google.com/file/d/16lIqPjNM9fMs8YZlQyHiXWhvkKNHhoBu/view?usp=sharing)
 
 ## Упражнения
 
