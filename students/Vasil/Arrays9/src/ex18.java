@@ -17,7 +17,7 @@ public class ex18 {
         int[][] matrix = new int[rowsInfo][colomnsInfo];
 
         fillMatrixElements(rowsInfo, colomnsInfo, matrix);
-        //
+        
     }
 
     public static void fillMatrixElements(int rowsInfo, int colomnsInfo, int[][] matrix) {
@@ -33,10 +33,7 @@ public class ex18 {
             number = ++oldValueNumber;
         }
 
-        //save length of last number to size matrix right
-
         printMatrix(rowsInfo, colomnsInfo, matrix);
-        //
     }
 
 
@@ -58,7 +55,7 @@ public class ex18 {
             System.out.println();
             forBounds(colomnsInfo,lengthNumber);
         }
-        //
+        
     }
 
     public static void forBounds(int colomnsInfo,int lengthNumber) {
