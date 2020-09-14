@@ -1,0 +1,72 @@
+import java.util.Scanner;
+
+public class ex9 {
+    public static String ans = "Yes";
+    public static Scanner scanner = new Scanner(System.in);
+
+    public static void main(String[] args) {
+
+        while(ans == "Yes"){
+        System.out.print("Enter month by number --> ");
+        int number = scanner.nextInt();
+        switch (number) {
+            case 1:
+                System.out.println("January");
+                break;
+            case 2:
+                System.out.println("February");
+                break;
+            case 3:
+                System.out.println("March");
+                break;
+            case 4:
+                System.out.println("April");
+                break;
+            case 5:
+                System.out.println("May");
+                break;
+            case 6:
+                System.out.println("June");
+                break;
+            case 7:
+                System.out.println("July");
+                break;
+            case 8:
+                System.out.println("August");
+                break;
+            case 9:
+                System.out.println("September");
+                break;
+            case 10:
+                System.out.println("October");
+                break;
+            case 11:
+                System.out.println("November");
+                break;
+            case 12:
+                System.out.println("December");
+                break;
+            default:
+                System.out.println("Invalid input");
+        }
+        ans = "N";
+        continuee();
+        }
+    }
+    public static void continuee(){
+        while (ans != "Yes"){
+        System.out.print("Do you continue? (Yes/No) --> ");
+        ans = scanner.next();
+        switch(ans){
+            case ("Yes"):
+                ans = "Yes";
+                break;
+            case ("No"):
+                System.exit(0);
+            default:
+                ans = "Again";
+                System.out.println("I don't understand your answear!");
+        }
+        }
+    }
+}
