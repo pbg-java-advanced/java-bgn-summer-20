@@ -5,6 +5,7 @@
 
 ## Видео
 * [Класове](https://drive.google.com/file/d/1YwfnX9etyyVVub-bjMH0XtApa7L06Xs-/view?usp=sharing)
+* [Класове 1](https://drive.google.com/file/d/1YWshMLYqdTGSSJ6AUphLCdzorUgXTO7p/view?usp=sharing)
 
 
 ## Упражнения
