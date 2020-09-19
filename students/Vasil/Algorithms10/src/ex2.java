@@ -4,7 +4,7 @@ import java.util.Scanner;
 public class ex2 {
 
     public static void main(String[] args) {
-        System.out.println(Long.MAX_VALUE);
+       
         System.out.print("Enter number: ");
         Scanner scanner = new Scanner(System.in);
         int saveNumber = scanner.nextInt();
