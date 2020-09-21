@@ -6,11 +6,12 @@ public class Cake {
     private int necessaryFlourQuantity = 500; // grams
     private int necessaryColorCake = 50; // grams
     private int necessaryFiller = 150;//grams
+    private double price;
 
     public Cake() {
     }
 
-    public Cake(String name, int nesessarySugarQuantity, int necessaryFlourQuantity, int necessaryColorCake, int necessaryFiller) {
+    public Cake(String name, int nesessarySugarQuantity, int necessaryFlourQuantity, int necessaryColorCake, int necessaryFiller, double price) {
         this.name = name;
         if(nesessarySugarQuantity > this.nesessarySugarQuantity) {
             System.err.println("ERROR - the entered sugar quantity is more than the necessary one!");
@@ -20,6 +21,7 @@ public class Cake {
         this.necessaryFlourQuantity = necessaryFlourQuantity;
         this.necessaryColorCake = necessaryColorCake;
         this.necessaryFiller = necessaryFiller;
+        this.price = price;
     }
 
     public String getName() {
@@ -62,5 +64,11 @@ public class Cake {
         this.necessaryFiller = necessaryFiller;
     }
 
+    public double getPrice() {
+        return price;
+    }
 
+    public void setPrice(double price) {
+        this.price = price;
+    }
 }
