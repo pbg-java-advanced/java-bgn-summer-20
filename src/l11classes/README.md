@@ -1,11 +1,12 @@
 # ООП - Класове
 
 ## Презентации
-
+* [Класове](https://drive.google.com/file/d/1Ewr2I5xkWTa6zIUPq8_xmzg5eB2R2Upq/view?usp=sharing)
 
 ## Видео
 * [Класове](https://drive.google.com/file/d/1YwfnX9etyyVVub-bjMH0XtApa7L06Xs-/view?usp=sharing)
 * [Класове 1](https://drive.google.com/file/d/1YWshMLYqdTGSSJ6AUphLCdzorUgXTO7p/view?usp=sharing)
+* [Класове 2](https://drive.google.com/file/d/1eGAyRne1ts5DQAv3C5AI0NHpup8nV8A2/view?usp=sharing)
 
 
 ## Упражнения
