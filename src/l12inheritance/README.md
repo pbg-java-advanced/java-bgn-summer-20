@@ -4,7 +4,7 @@
 [Наследяване](https://drive.google.com/file/d/1dQ4FPlgHKXeWxUktm54HqtP-5Ab4nJVg/view?usp=sharing)
 
 ## Видео
-
+[Наследяване](https://drive.google.com/file/d/1HyI45GQuX-n7OLlqTtsd9L7-B_aPz7-K/view?usp=sharing)
 
 ## Упражнения
  
