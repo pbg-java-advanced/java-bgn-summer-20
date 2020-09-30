@@ -14,4 +14,4 @@
 * [10. Алгоритми](src/l10algorithms/README.md)
 * [11. Класове](src/l11classes/README.md)
 * [12. Наследяване](src/l12inheritance/README.md)
-* [13. Изключения & Работа с файлове](src/l13files/README.md)
+* [13. Изключения & Работа с файлове](src/l13exceptions&files/README.md)
