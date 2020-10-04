@@ -1,0 +1,6 @@
+=================  Sun Oct 04 17:15:07 EEST 2020  =================
+Titanic James Cameron 3.0 drama 1998 20.0
+=================  Sun Oct 04 17:15:45 EEST 2020  =================
+Gladiator Unknown\ 3.0 classic drama 2000 14.0
+=================  Sun Oct 04 17:16:15 EEST 2020  =================
+Dirty Dances Unknown 2.0 drama 1992 5.0
