@@ -6,6 +6,7 @@
 ## Видео
 * [Изключения](https://drive.google.com/file/d/1eRtAEK5VVfbDL2ByPSFMFh5ymknRWfvE/view?usp=sharing)
 * [Файлове](https://drive.google.com/file/d/1bMC0naQpyRIKIG4u83VD_PzAwnEQROlw/view?usp=sharing)
+* [Файлове 1](https://drive.google.com/file/d/12tw769MFM0dreFOoau7-ffqsJcaqxtqD/view?usp=sharing)
 
 ## Упражнения
 
